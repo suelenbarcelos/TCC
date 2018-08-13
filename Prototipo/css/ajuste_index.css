@@ -1,0 +1,20 @@
+
+
+.texto-login{
+	text-shadow: 0em 0em #333;
+}
+
+.btn-default{
+	border-color: black;
+	color: black;
+	margin-top: 5%;
+	text-shadow: 0em 0em #333;
+	
+}
+
+#logo{
+	font-size: 50px;
+}
+ul{
+	list-style-type: none;
+}

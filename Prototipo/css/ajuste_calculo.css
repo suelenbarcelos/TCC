@@ -1,0 +1,24 @@
+.texto{
+	margin-right:70%;
+	font-size: 150%;
+}
+
+.seletor-materiais .nao-selecionado {
+	display: none;
+}
+
+.form-calcular-precos-materiais {
+	text-align: left;
+}
+
+
+.btn-default{
+	border-color: black;
+	color: black;
+	margin-top: 5%;
+	text-shadow: 0em 0em #333;
+}
+
+.text-center {
+    text-align: left;
+}
